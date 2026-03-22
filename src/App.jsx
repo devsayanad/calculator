@@ -13,7 +13,7 @@ function App() {
     }
     else if(buttonText === "="){
       const result = eval(calval)
-      setcalval("Hello World!")
+      setcalval(result)
   }
   else{
       const newDisplayValue= calval + buttonText;
