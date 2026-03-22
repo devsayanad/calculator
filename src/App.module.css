@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  
+}
+
+.calculator{
+  background-color: #2e3440;
+  border: 1px solid rgb(90, 90, 90);
+  width: 200px;
+  border-radius: 20px;
+  margin-top: 10%;
+padding-bottom: 7px;
+padding-top: 7px;
+  
+}

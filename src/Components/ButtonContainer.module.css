@@ -1,0 +1,30 @@
+.buttonsContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  }
+  
+  .button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    background-color: #4A90E2;
+    color: #333333;
+
+  }
+
+  .button:hover{
+    background-color: #38689f
+  }
+.buttonC{
+  width: 45px;
+    height: 45px;
+    margin: 3px;
+    background-color: #E74C3C;
+    color: #333333;
+     
+}
+
+.buttonC:hover{
+  background-color: #bd4032;
+}
